@@ -1,0 +1,3 @@
+C:/Users/welad/CLionProjects/C-Lab-Project/cmake-build-debug/CMakeFiles/C_Lab_Project.dir
+C:/Users/welad/CLionProjects/C-Lab-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/welad/CLionProjects/C-Lab-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
